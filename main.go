@@ -2,9 +2,8 @@ package main
 
 import (
 	"fmt"
-	"os"
-
 	"github.com/ilya-tokar/interpreter/repl"
+	"os"
 )
 
 func main() {
