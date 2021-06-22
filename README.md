@@ -1,11 +1,11 @@
-# Лабараторные работы по СПО
+# Labs work on SPO.
 
-Студент ИКБО-05-18 Токар И.И.
+Student IKBO-05-18 Tokar Ilya.
 
-- [x] Лексер.
-- [x] Парсер.
-- [x] Интерпретатор.
-- [x] Типы данных.
+- [x] Lexer.
+- [x] Parser.
+- [x] Interpreter.
+- [x] Data types.
 
 Creating variables.
 ```
